@@ -1,7 +1,7 @@
 name: Ouput information
 on: issues
 jobs:
-  output:
+  info:
     runs-on: ubuntu-latest
     steps:
       - name: Output message
